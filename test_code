@@ -1,2 +1,1 @@
-https://maps.googleapis.com/maps/api/distancematrix/output?parameters
-origins=Bobcaygeon+ON|41.43206,-81.38992
+https://maps.googleapis.com/maps/api/distancematrix/xml?origins=Vancouver+BC|Seattle&destinations=San+Francisco|Vancouver+BC&mode=bicycling&language=fr-FR&key=AIzaSyD8O0hqsn36opeAVqHtJiUldnL1fRJYHQg
